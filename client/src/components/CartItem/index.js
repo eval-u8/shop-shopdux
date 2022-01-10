@@ -7,7 +7,7 @@ import { useSelector, useDispatch } from 'react-redux'
 const CartItem = ({ item }) => {
     // const [, dispatch] = useStoreContext();
 
-    const state = useSelector((state) => {
+    useSelector((state) => {
         return state
       });
     
