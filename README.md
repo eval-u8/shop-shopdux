@@ -3,8 +3,7 @@
     <img src="https://img.shields.io/badge/React-blue"  />
     <img src="https://img.shields.io/badge/Command%20Line-orange" />
     <img src="https://img.shields.io/badge/Node%20JS-purple" />
-    <img src="https://img.shields.io/badge/MongoDB-brightgreen" />
-    <img src="https://img.shields.io/badge/Google-ff69b4" />
+    <img src="https://img.shields.io/badge/Redux-ff69b4" />
 </p>
 
 # Shop-Shopdux
@@ -13,7 +12,7 @@ Shop-shopdux is the sister website of [shop-shop](https://github.com/evalecillos
 
 ## Preview 👀
 [Live site](https://agile-plains-92114.herokuapp.com/)
-![Site preview](assets/images/preview.png)
+![Site preview](client/src/components/preview.png)
 
 
 ## License 📓
