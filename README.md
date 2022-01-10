@@ -11,7 +11,7 @@
 Shop-shopdux is the sister website of [shop-shop](https://github.com/evalecillos/shop-shop) using Redux instead of React context for state variable management.
 
 ## Preview 👀
-[Live site](https://agile-plains-92114.herokuapp.com/)
+[Live site](https://rocky-basin-87086.herokuapp.com/)
 ![Site preview](client/src/components/preview.png)
 
 
